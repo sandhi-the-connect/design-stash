@@ -1,2 +1,2 @@
-# Design-guidelines
-Sandhi's stash of design principles and guidelines.
+# Design Stash
+Sandhi's official stash of design principles and guidelines.
